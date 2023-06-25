@@ -10,9 +10,9 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 10px;
-    background-color: rgb(170,170,170);
+    background-color: rgb(170, 170, 170);
     width: 400px;
-    
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
 }
 
 .function-container {

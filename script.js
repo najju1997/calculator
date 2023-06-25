@@ -116,6 +116,7 @@ function getValue() {
 
       // condition 4: when user press =, operate function is played passing first value and second value 
       // using operator that was pressed.
+      
       }  else if (button.value === '=') {
         inputField.result = operate(button.value);
         output_div.textContent = inputField.result;
